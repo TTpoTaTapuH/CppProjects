@@ -1,0 +1,9 @@
+﻿  Content.cpp
+c:\users\1\desktop\сдача саод\saod_kursach\saod_kursach\section.h(44): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\desktop\сдача саод\saod_kursach\saod_kursach\content.h(302): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\desktop\сдача саод\saod_kursach\saod_kursach\content.h(434): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Section.cpp
+  SAOD_KURSACH.cpp
+  SAOD_KURSACH.vcxproj -> C:\Users\1\Desktop\СДАЧА САОД\SAOD_KURSACH\Debug\SAOD_KURSACH.exe

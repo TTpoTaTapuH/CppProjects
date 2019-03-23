@@ -1,0 +1,13 @@
+﻿  kursovaya_aleksandr.cpp
+c:\users\1\desktop\kursovaya_aleksandr\kursovaya_aleksandr\cell.h(35): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\desktop\kursovaya_aleksandr\kursovaya_aleksandr\table.h(90): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\desktop\kursovaya_aleksandr\kursovaya_aleksandr\kursovaya_aleksandr.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+  Table.cpp
+c:\users\1\desktop\kursovaya_aleksandr\kursovaya_aleksandr\cell.h(35): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\desktop\kursovaya_aleksandr\kursovaya_aleksandr\table.h(90): warning C4018: <: несоответствие типов со знаком и без знака
+  Line.cpp
+c:\users\1\desktop\kursovaya_aleksandr\kursovaya_aleksandr\cell.h(35): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Cell.cpp
+  kursovaya_aleksandr.vcxproj -> C:\Users\1\Desktop\kursovaya_aleksandr\Debug\kursovaya_aleksandr.exe
